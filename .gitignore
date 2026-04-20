@@ -1,0 +1,28 @@
+# Compiled binaries
+test_dt
+test_dt.exe
+test_U
+test_U.exe
+test_g
+test_g.exe
+test_ssf
+test_ssf.exe
+
+# Object files
+*.o
+*.obj
+
+# Output data directories
+dati/
+
+# IDE / editor artifacts
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
