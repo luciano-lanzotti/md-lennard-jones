@@ -15,6 +15,9 @@ test_ssf.exe
 # Output data directories
 dati/
 
+# PDF of the final relation
+csm_luciano_lanzotti_relazione.pdf
+
 # IDE / editor artifacts
 .vscode/
 .idea/
